@@ -1,14 +1,14 @@
 {
     "name": "gisleburt/form",
     "type": "library",
-    "description": "Gisleburt framework Form module.",
+    "description": "Gisleburt Framework: Forms module",
     "keywords": ["forms"],
-    "homepage": "https://github.com/Gisleburt/GF_Form.git",
+    "homepage": "https://github.com/Gisleburt/",
     "license": "MIT",
 	"minimum-stability": "dev",
     "authors": [
         {
-            "name": "Daniel Masn",
+            "name": "Daniel Mason",
             "email": "daniel@danielmason.com",
             "homepage": "http://danielmason.com",
             "role": "Developer"

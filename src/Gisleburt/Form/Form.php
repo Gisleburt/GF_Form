@@ -5,7 +5,6 @@
 
 	namespace Gisleburt\Form;
 
-	use Gisleburt\LazyData\Exception;
 	use Gisleburt\Tools\AbstractClass;
 	use Gisleburt\Tools\Tools;
 
